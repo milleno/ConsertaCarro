@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_LiveData_params" value="1" />
+	<infoitem key="UD_LiveData_param0" value="recordID=1" />
+	<infoitem key="UD_RsLogin" value="name:id;datatype:int,name:nome;datatype:string,name:email;datatype:string,name:senha;datatype:string" />
+	<infoitem key="UD_DetailRS2" value="name:id;datatype:int,name:nome;datatype:string,name:email;datatype:string,name:senha;datatype:string" />
+</info>
